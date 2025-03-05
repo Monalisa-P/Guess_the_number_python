@@ -6,6 +6,6 @@ Step 1:
 Step 2: Clone your repository locally
   Type "git clone https://github.com/Monalisa-P/Guess_the_number_python.git"
 Step 3: Navigate to the Directory
-  Type "cd To-Do-List"
+  Type "cd Guess_the_number_python"
 Step 4: Run the script
   Type "python main.py"
